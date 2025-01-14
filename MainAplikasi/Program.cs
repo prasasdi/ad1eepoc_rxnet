@@ -7,3 +7,6 @@ BackgroundWork.StartBackgroundWork();
 
 ObserverOnDemand observerOnDemand = new ObserverOnDemand();
 observerOnDemand.DoLongRunningOperation("Iki loh mulai");
+
+CombineLatest combineLatest = new CombineLatest();
+combineLatest.ParallelExecutionTest();
