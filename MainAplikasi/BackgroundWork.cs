@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace MainAplikasi
 {
+    /// <summary>
+    /// To understand use of an Observable
+    /// </summary>
     public static class BackgroundWork
     {
         public static void StartBackgroundWork()
